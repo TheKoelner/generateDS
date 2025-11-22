@@ -10,6 +10,7 @@ librarytemplate-1.0a.zip
 librarytemplate_howto.html
 librarytemplate_howto.txt
 process_includes.py
+setup.cfg
 setup.py
 Demos/Outline/README
 Demos/Outline/outline.py

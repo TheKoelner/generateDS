@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/Users/manfredkraft/Development/generateDS/.venv/bin/python
 """
 Synopsis:
     Generate Python classes from XML Schema definition.
